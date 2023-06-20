@@ -1,5 +1,8 @@
 # Finger Print Classification
 
+![image](https://github.com/SomiaSherif/Finger_Print_Classification/assets/67033021/d8d2143f-f35e-4199-ba38-bf90774708ce)
+
+
 When using ANNs for fingerprint classification, the first step is to prepare the dataset. This involves collecting a large number of fingerprint images and labeling them according to their class (e.g., arch, loop, whorl). The dataset is then split into training, validation, and test sets. The training set is used to train the ANN, the validation set is used to tune the hyperparameters of the model, and the test set is used to evaluate the performance of the trained model.
 
 Next, the ANN architecture is designed, which involves selecting the number of layers, the number of nodes in each layer, and the activation functions for each node. The architecture can be optimized using techniques such as hyperparameter tuning and cross-validation to improve the performance of the model.
@@ -10,4 +13,4 @@ After training, the performance of the ANN is evaluated using the test set. The 
 
 In summary, using ANNs for fingerprint classification involves preparing the dataset, designing the architecture, training the model using backpropagation, and evaluating the performance using test data. Fine-tuning the hyperparameters and architecture can help optimize the performance of the model.
 
-Dataset Link : https://www.kaggle.com/datasets/ruizgara/socofing
+**Dataset Link** : https://www.kaggle.com/datasets/ruizgara/socofing
